@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vava-должности-e",
+  "editForm": "i-i-s-vava-должности-e",
+  "external": false,
+  "caption": "Должности",
+  "name": "IISVavaДолжностиL",
+  "className": "ДолжностиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vava-должности",
+      "modelProjection": "ДолжностиL"
+    }
+  ]
+}

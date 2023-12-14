@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Vava",
+  "applicationTitle": "Vava",
+  "items": [
+    {
+      "link": null,
+      "menuName": "vava",
+      "caption": "Vava",
+      "title": "Vava",
+      "children": [
+        {
+          "link": "i-i-s-vava-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-vava-кто-l",
+          "menuName": null,
+          "caption": "Кто",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-vava-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

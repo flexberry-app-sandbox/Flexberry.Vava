@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Должности",
+  "name": "IISVavaДолжностиE",
+  "className": "ДолжностиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vava-должности",
+      "modelProjection": "ДолжностиE"
+    }
+  ]
+}

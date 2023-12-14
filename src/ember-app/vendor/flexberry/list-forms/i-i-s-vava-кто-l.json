@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-vava-кто-e",
+  "editForm": "i-i-s-vava-кто-e",
+  "external": false,
+  "caption": "Кто",
+  "name": "IISVavaКтоL",
+  "className": "КтоL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vava-кто",
+      "modelProjection": "КтоL"
+    }
+  ]
+}

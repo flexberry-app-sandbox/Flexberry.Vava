@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Сотрудники",
+      "projection": "СотрудникиL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Кто",
+  "name": "IISVavaКтоE",
+  "className": "КтоE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-vava-кто",
+      "modelProjection": "КтоE"
+    }
+  ]
+}
